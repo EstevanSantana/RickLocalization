@@ -1,0 +1,15 @@
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\bin\Debug\netcoreapp3.1\RickLocalization.Repository.deps.json
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\bin\Debug\netcoreapp3.1\RickLocalization.Repository.runtimeconfig.json
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\bin\Debug\netcoreapp3.1\RickLocalization.Repository.runtimeconfig.dev.json
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\bin\Debug\netcoreapp3.1\RickLocalization.Repository.dll
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\bin\Debug\netcoreapp3.1\RickLocalization.Repository.pdb
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\bin\Debug\netcoreapp3.1\RickLocalization.Domain.dll
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\bin\Debug\netcoreapp3.1\RickLocalization.Domain.pdb
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\obj\Debug\netcoreapp3.1\RickLocalization.Repository.csprojAssemblyReference.cache
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\obj\Debug\netcoreapp3.1\RickLocalization.Repository.AssemblyInfoInputs.cache
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\obj\Debug\netcoreapp3.1\RickLocalization.Repository.AssemblyInfo.cs
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\obj\Debug\netcoreapp3.1\RickLocalization.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\obj\Debug\netcoreapp3.1\RickLocalization.Repository.csproj.CopyComplete
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\obj\Debug\netcoreapp3.1\RickLocalization.Repository.dll
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\obj\Debug\netcoreapp3.1\RickLocalization.Repository.pdb
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Repository\obj\Debug\netcoreapp3.1\RickLocalization.Repository.genruntimeconfig.cache

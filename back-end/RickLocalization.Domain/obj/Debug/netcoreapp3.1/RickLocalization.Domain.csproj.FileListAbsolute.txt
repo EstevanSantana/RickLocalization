@@ -1,0 +1,9 @@
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\bin\Debug\netcoreapp3.1\RickLocalization.Domain.deps.json
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\bin\Debug\netcoreapp3.1\RickLocalization.Domain.dll
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\bin\Debug\netcoreapp3.1\RickLocalization.Domain.pdb
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\obj\Debug\netcoreapp3.1\RickLocalization.Domain.csprojAssemblyReference.cache
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\obj\Debug\netcoreapp3.1\RickLocalization.Domain.AssemblyInfoInputs.cache
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\obj\Debug\netcoreapp3.1\RickLocalization.Domain.AssemblyInfo.cs
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\obj\Debug\netcoreapp3.1\RickLocalization.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\obj\Debug\netcoreapp3.1\RickLocalization.Domain.dll
+C:\Users\Xess\projetos\testes\RickLocalization\back-end\RickLocalization.Domain\obj\Debug\netcoreapp3.1\RickLocalization.Domain.pdb
